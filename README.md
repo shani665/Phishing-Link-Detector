@@ -2,9 +2,9 @@
 
 A Python-based tool to detect phishing URLs using domain analysis, WHOIS lookup, and HTML inspection.
 
-Requirements
+# Requirements
 
-#For Windows 🖥️:
+For Windows 🖥️:
 ```bash
 pip install requests
 python -m pip install requests
