@@ -2,31 +2,31 @@
 
 A Python-based tool to detect phishing URLs using domain analysis, WHOIS lookup, and HTML inspection.
 
-## Requirements
+Requirements
 
-### For Windows:
+For Windows:
 ```bash
 pip install requests
 python -m pip install requests
 pip install tldextract whois beautifulsoup4 dnspython
 pip3 install --upgrade python-whois
 ```
-#Run the tool:
+Run the tool:
 ```bash
 python path/to/phishing_detector.py
 
 ```
-### For Linux:
+For Linux:
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip -y
 pip3 install beautifulsoup4 requests tldextract python-whois dnspython
 ```
-###Run the tool:
+Run the tool:
 ```bash
 python3 path/to/phishing_detector.py
 ```
-###API Configuration (Optional)
+API Configuration (Optional)
 Create a .env file and add your keys:
 ```
 VIRUSTOTAL_API_KEY=your_api_key_here
