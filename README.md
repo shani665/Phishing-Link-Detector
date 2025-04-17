@@ -20,24 +20,25 @@ pip3 install --upgrade python-whois
 ``
 OR
 
-``
+```
 
-#Requirement pakage run this tool in Linux
+Requirement pakage run this tool in Linux
+```
 
 pip install requests tldextract python-whois beautifulsoup4 dnspython
 
-``
+```
 
 Run
 
-``
+```
 
  python your_file_path/phishing_detector.py
 
-```text
+```
 Requirement pakage run this tool in Linux
 
-``
+```
 
 # Python aur pip install
 
@@ -63,7 +64,7 @@ VIRUSTOTAL_API_KEY=your_api_key_here
 
 PHISHTANK_API_KEY=your_api_key_here
 
----
+```
 
 ### **5. LICENSE (MIT)**
 
