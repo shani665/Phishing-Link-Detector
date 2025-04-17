@@ -1,6 +1,17 @@
 # Phishing Link Detection Tool
 
 Requirement pakage run this tool in windows
+### **5. LICENSE (MIT)**
+
+```text
+
+MIT License
+
+Copyright (c) 2023 [Your Name]
+
+Permission is hereby granted...
+
+[Full standard MIT license text]
 
 1: pip install requests
 
@@ -43,7 +54,9 @@ PHISHTANK_API_KEY=your_api_key_here
 ---
 
 ### **5. LICENSE (MIT)**
+
 ```text
+
 MIT License
 
 Copyright (c) 2023 [Your Name]
