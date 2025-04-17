@@ -1,4 +1,4 @@
-# Phishing Detection Tool (Pdetect)
+# Phishing Link Detection Tool
 
 Requirement pakage run this tool in windows
 
