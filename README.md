@@ -26,12 +26,13 @@ pip3 install beautifulsoup4 requests tldextract python-whois dnspython
 ```bash
 python3 path/to/phishing_detector.py
 ```
-#🔑 API Configuration (Optional)
+#API Configuration (Optional) 🔑 
 Create a .env file and add your keys:
 ```
 Get keys from:
 https://www.virustotal.com/
-https://www.phishtank.com/
+https://console.cloud.google.com/
+https://www.virustotal.com/gui/my-apikey
 VIRUSTOTAL_API_KEY=your_key_here
 PHISHTANK_API_KEY=your_key_here
 ```
