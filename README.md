@@ -1,7 +1,7 @@
 
 
 Requirement pakage run this tool in windows
-### **# Phishing Link Detection Tool**
+# Phishing Link Detection Tool
 
 
 
@@ -32,15 +32,17 @@ Permission is hereby granted...
 
 OR
 
-```text
+```
+
+# Phishing Link Detection Tool
 
 4: pip install requests tldextract python-whois beautifulsoup4 dnspython
 
-```text
+``
 
 Run
 
-```text
+``
 
  python your_file_path/phishing_detector.py
 
@@ -48,11 +50,11 @@ Run
  
 Requirement pakage run this tool in Linux
 
-```text
+```
 
 # Python aur pip install
 
-```text
+``
 
 sudo apt update
 
