@@ -5,7 +5,7 @@
 
 Requirement pakage run this tool in windows
 
-``
+```
 pip install requests
 
 ``
@@ -20,13 +20,13 @@ pip3 install --upgrade python-whois
 ``
 OR
 
-```
+``
 
 #Requirement pakage run this tool in Linux
 
 pip install requests tldextract python-whois beautifulsoup4 dnspython
 
-```
+``
 
 Run
 
@@ -37,7 +37,7 @@ Run
 ```text
 Requirement pakage run this tool in Linux
 
-```
+``
 
 # Python aur pip install
 
