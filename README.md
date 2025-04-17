@@ -1,4 +1,4 @@
-#🚨 Phishing Link Detection Tool
+# Phishing Link Detection Tool🚨
 
 A Python-based tool to detect phishing URLs using domain analysis, WHOIS lookup, and HTML inspection.
 
