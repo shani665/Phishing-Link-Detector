@@ -10,6 +10,9 @@ pip install requests
 python -m pip install requests
 pip install tldextract whois beautifulsoup4 dnspython
 pip3 install --upgrade python-whois
+```
+#Run the tool:
+```bash
 python path/to/phishing_detector.py
 
 ```
@@ -50,5 +53,4 @@ Copyright (c) 2025 [Shani Yadav]
 - Eliminates confusion between Windows/Linux setups
 - Maintains all critical information (API keys, license reference)
 
-Would you like me to add any specific troubleshooting steps or screenshots?
 
