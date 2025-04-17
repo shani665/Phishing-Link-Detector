@@ -26,7 +26,8 @@ pip3 install beautifulsoup4 requests tldextract python-whois dnspython
 ```bash
 python3 path/to/phishing_detector.py
 ```
-#API Configuration (Optional) 🔑 
+# API Configuration (Optional) 🔑 
+
 Create a .env file and add your keys:
 ```
 Get keys from:
