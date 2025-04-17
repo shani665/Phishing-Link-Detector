@@ -37,7 +37,7 @@ https://www.virustotal.com/gui/my-apikey
 VIRUSTOTAL_API_KEY=your_key_here
 PHISHTANK_API_KEY=your_key_here
 ```
-#📜 License
+# 📜 License
 MIT License
 Copyright (c) 2025 [Shani Yadav]
 ```
