@@ -1,9 +1,9 @@
-# Phishing Link Detection Tool
+
 
 Requirement pakage run this tool in windows
-### **5. LICENSE (MIT)**
+### **# Phishing Link Detection Tool**
 
-```text
+
 
 MIT License
 
@@ -12,28 +12,51 @@ Copyright (c) 2023 [Your Name]
 Permission is hereby granted...
 
 [Full standard MIT license text]
+```text
 
 1: pip install requests
 
+```text
+
 2: python -m pip install requests
+
+```text
 
 3: pip install tldextract whois beautifulsoup4 dnspython
 
+```text
+
 4: pip3 install --upgrade python-whois
+
+```text
 
 OR
 
+```text
+
 4: pip install requests tldextract python-whois beautifulsoup4 dnspython
 
-Run 
+```text
+
+Run
+
+```text
 
  python your_file_path/phishing_detector.py
+
+```text
  
 Requirement pakage run this tool in Linux
 
+```text
+
 # Python aur pip install
 
+```text
+
 sudo apt update
+
+```text
 
 1: sudo apt install python3 python3-pip -y
 
