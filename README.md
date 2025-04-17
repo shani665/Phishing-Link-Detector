@@ -4,7 +4,7 @@ A Python-based tool to detect phishing URLs using domain analysis, WHOIS lookup,
 
 Requirements
 
-#For Windows:
+#For Windows 🖥️:
 ```bash
 pip install requests
 python -m pip install requests
@@ -16,7 +16,7 @@ pip3 install --upgrade python-whois
 python path/to/phishing_detector.py
 
 ```
-For Linux:
+For Linux 🐧:
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip -y
