@@ -3,12 +3,15 @@
 Requirement pakage run this tool in windows
 
 1: pip install requests
+
 2: python -m pip install requests
+
 3: pip install tldextract whois beautifulsoup4 dnspython
 
 4: pip3 install --upgrade python-whois
 
 OR
+
 4: pip install requests tldextract python-whois beautifulsoup4 dnspython
 
 Run 
@@ -37,6 +40,16 @@ VIRUSTOTAL_API_KEY=your_api_key_here
 
 PHISHTANK_API_KEY=your_api_key_here
 
+---
 
+### **5. LICENSE (MIT)**
+```text
+MIT License
+
+Copyright (c) 2023 [Your Name]
+
+Permission is hereby granted...
+
+[Full standard MIT license text]
 
 
